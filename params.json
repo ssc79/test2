@@ -1,1 +1,1 @@
-{"name":"Test2","tagline":"hello world","body":"<html>\r\n<h1>Es funktionert</h1>\r\n</html>","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{"name":"Test2","tagline":"hello world","body":"<html>\r\n<h1>Es funktionert</h1>\r\n<iframe src=\"http://ssc79.github.io/index.html\" height=550px width=100% scrolling=no frameborder=no></iframe> \r\n</html>","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
